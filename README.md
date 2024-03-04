@@ -3,7 +3,7 @@ RTL Coding Practice from https://github.com/raulbehl/100DaysOfRTL.
 
 
 
-## My Two-Column Table
+## Solutions
 
 | S.No | EDA Playground Link |
 |----------|----------|
