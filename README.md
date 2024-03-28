@@ -1,5 +1,5 @@
 # -100daysOfRTL
-RTL Coding Practice from https://github.com/raulbehl/100DaysOfRTL. 
+RTL Coding Practice. Reference from [https://github.com/raulbehl/100DaysOfRTL.](https://github.com/krishna12890/-100daysOfRTL/edit/main/README.md) 
 
 
 
